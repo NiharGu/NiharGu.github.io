@@ -1,4 +1,4 @@
 # NiharGu.github.io
 
 
-kya bolti publuc
+#kya bolti publuc
