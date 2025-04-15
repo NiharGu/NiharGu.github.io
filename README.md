@@ -1,4 +1,1 @@
-# NiharGu.github.io
-
-
-#kya bolti publuc
+yo checkout my website at https://nihargu.github.io/
